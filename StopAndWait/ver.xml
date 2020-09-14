@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Jungwoo Shim\eclipse-workspace\ver01\ver.jar</jar>
+  <outfile>C:\Users\Jungwoo Shim\eclipse-workspace\ver01\ver.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>stopwait.StopWaitDlg</mainClass>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.1</fileVersion>
+    <txtFileVersion>Ver 0.0.0.1</txtFileVersion>
+    <fileDescription>심플 채팅</fileDescription>
+    <copyright>Jungwoo</copyright>
+    <productVersion>0.0.0.1</productVersion>
+    <txtProductVersion>Ver 0.0.0.1</txtProductVersion>
+    <productName>Ver</productName>
+    <companyName>Jungwoo</companyName>
+    <internalName>Ver</internalName>
+    <originalFilename>ver.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>KOREAN</language>
+  </versionInfo>
+</launch4jConfig>
